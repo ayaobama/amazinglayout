@@ -1,0 +1,30 @@
+/* Custom Styles For Coming Soon Site */
+
+body {
+    padding-top: 5rem;
+    background: url(img/b1a.jpg);
+    background-size:cover;
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+/* Navbar */
+
+.bg-dark {
+    background-color: transparent!important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 25px;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    margin: 50px;
+    width: 250px;
+    text-align: center;
+}
